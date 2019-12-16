@@ -1,0 +1,16 @@
+---
+title: 'begin again '
+author: S&Y
+date: '2019-12-15'
+slug: begin-again
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+# **Thank you for comming to our little world! **
+## I promise you will be glad to take a rest here. 
+
+*[Github](www.github.com)
+![cute cute](/post/2019-12-15-begin-again_files/36-367458_hello-kitty-my-melody-desktop-background.jpg){width=80%}
